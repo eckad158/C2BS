@@ -16,11 +16,9 @@ So i want to start my own approach to transfer our valuable data to our new Book
 ## Update 01.02.2022
 Found two required Libraries and started implementing first Methods:
 
-Confluence API Wrapper
+* Confluence API Wrapper
 https://atlassian-python-api.readthedocs.io/confluence.html
 
-and 
-
-Bookstack API Wrapper
+* Bookstack API Wrapper
 https://github.com/coffeepenbit/bookstack
 
