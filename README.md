@@ -11,6 +11,7 @@ So i want to start my own approach to transfer our valuable data to our new Book
 ## Update 07.02.2022
 * Connections to Instances are now working, sample config file created -> has to be filled and named config.properties
 * Rest endpoints and libraries need further investigations
+* Reading from the REST-APIs is now working.
 
 ## Update 01.02.2022
 Found two required Libraries and started implementing first Methods:
